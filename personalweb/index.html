@@ -96,7 +96,7 @@
 								<h3>Ubiquitous Computing</strong>.</h3>
 								<p>I'm at <strong>Institute of Computing Technology,<br/>Chinese Academy of Sciences</strong>.
 								</p>
-								<p>Click <a href="files/Lara - Human Activity Recognition - 2013.pdf">here</a> to learn what I'm in.</p>
+								<p>Click <a href="http://github.com/jindongwang/MachineLearning">here</a> and <a href="https://en.wikipedia.org/wiki/Activity_recognition">here</a> and to learn what I'm in.</p>
 							</header>
 
 							<!-- <footer>
@@ -226,8 +226,9 @@
 			<div id="footer">
 
 				<!-- Copyright -->
-					<ul class="copyright">
-						<li>&copy; 2015 Jindong Wang.京ICP备13006452号. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					<ul class="copyright"> 
+						<li>&copy; 2015-<span id='yearspan'></span> Jindong Wang.京ICP备13006452号. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+						 
 					</ul>
 
 			</div>
@@ -264,6 +265,12 @@
 					  	}
 					});
 				}
+				var now = new Date();
+				var year = now.getYear() + 1900;
+				$("#yearspan").html(year); 
 			</script>
+
+		<script type="text/javascript" src="http://tajs.qq.com/stats?sId=54867238" charset="UTF-8"></script>
+				
 	</body>
 </html>
