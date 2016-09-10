@@ -42,3 +42,20 @@ body {
 	height: 20px;
 	widows: 40px;
 }
+
+.author{
+	color:#080808;
+	margin-left: 20px;
+}
+
+.venue{
+	color:#080808;
+	margin-left: 20px;
+	font-style: italic;
+}
+
+.article{
+	color:#000000;
+	margin-left: 20px;
+	font-weight: bold;
+}
