@@ -59,3 +59,8 @@ body {
 	margin-left: 20px;
 	font-weight: bold;
 }
+
+.image{
+	height: 40px;
+	width:40px;
+}
