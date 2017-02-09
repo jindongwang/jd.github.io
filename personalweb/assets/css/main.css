@@ -1,12 +1,12 @@
 body {
-	line-height: 1.3;
+	line-height: 1.5;
 	margin: 2% 10% 2% 10%;
-	font-family: Times New Roman;
+	font-family: Microsoft Yahei UI;
 }
 
 .header {
 	text-align: center;
-	font-size: 26px;
+	font-size: 22px;
 }
 
 .myicon {
@@ -15,23 +15,23 @@ body {
 }
 
 .sectiontitle {
-	font-size: 22px;
+	font-size: 18px;
 	font-weight: bold;
 }
 
 .sectioncontent {
-	font-size: 20px;
+	font-size: 16px;
 	font-weight: normal;
 	margin-left: 20px;
 }
 
 .date {
-	font-size: 18px;
+	font-size: 14px;
 	font-style: italic;
 }
 
 .email {
-	font-size: 16px;
+	font-size: 12px;
 }
 
 .appicon {
