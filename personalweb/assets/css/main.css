@@ -11,7 +11,7 @@ body {
 
 .myicon {
 	width: 100;
-	float:right;
+	float:left;
 }
 
 .sectiontitle {
@@ -22,7 +22,7 @@ body {
 .sectioncontent {
 	font-size: 16px;
 	font-weight: normal;
-	margin-left: 20px;
+
 }
 
 .date {
@@ -35,7 +35,7 @@ body {
 }
 
 .appicon {
-	width: 40;
+	width: 25;
 }
 
 .new{
@@ -45,22 +45,34 @@ body {
 
 .author{
 	color:#080808;
-	margin-left: 20px;
 }
 
 .venue{
 	color:#080808;
-	margin-left: 20px;
 	font-style: italic;
 }
 
 .article{
 	color:#000000;
-	margin-left: 20px;
 	font-weight: bold;
 }
 
 .image{
-	height: 40px;
-	width:40px;
+	height: 30px;
+	width:30px;
 }
+
+a:link { 
+color:#337ab7; 
+text-decoration:none; 
+} 
+
+a:hover { 
+color:#337adf; 
+text-decoration:underline; 
+} 
+
+a:visited { 
+color:#337ab7; 
+text-decoration:none; 
+} 
