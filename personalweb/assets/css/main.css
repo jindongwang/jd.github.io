@@ -12,6 +12,7 @@ body {
 .myicon {
 	width: 100;
 	float:left;
+	margin-right: 15px;
 }
 
 .sectiontitle {
