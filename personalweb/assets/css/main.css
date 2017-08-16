@@ -77,3 +77,9 @@ a:visited {
 color:#337ab7; 
 text-decoration:none; 
 } 
+
+.category{
+	color:#000000;
+	font-weight: bold;
+	font-size: 17px;
+}
