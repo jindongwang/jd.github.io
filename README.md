@@ -1,3 +1,3 @@
 # jd.github.io
 
-Jindong Wang's personal website
+Jindong Wang's personal website. Please visit http://jd92.wang.
