@@ -1,7 +1,7 @@
 body {
 	line-height: 1.5;
 	margin: 2% 10% 2% 10%;
-	font-family: Times New Roman;
+	font-family: Georgia;
 }
 
 .header {
@@ -21,18 +21,18 @@ body {
 }
 
 .sectioncontent {
-	font-size: 16px;
+	font-size: 17px;
 	font-weight: normal;
 
 }
 
 .date {
-	font-size: 14px;
+	font-size: 15px;
 	font-style: italic;
 }
 
 .email {
-	font-size: 12px;
+	font-size: 14px;
 }
 
 .appicon {
@@ -55,6 +55,7 @@ body {
 
 .article{
 	color:#000000;
+	font-weight: bold;
 }
 
 .image{
