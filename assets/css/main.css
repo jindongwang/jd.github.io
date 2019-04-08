@@ -55,7 +55,8 @@ body {
 
 .article{
 	color:#000000;
-	font-weight: bold;
+	font-family: Arial;
+	font-size: 18;
 }
 
 .image{
