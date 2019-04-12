@@ -56,7 +56,7 @@ body {
 .article{
 	color:#000000;
 	font-family: Arial;
-	font-size: 18;
+	font-size: 17;
 }
 
 .image{
@@ -83,4 +83,9 @@ text-decoration:none;
 	color:#000000;
 	font-weight: bold;
 	font-size: 17px;
+}
+
+.pdf{
+	font-size: 16px;
+	font-family: Times New Roman;
 }
