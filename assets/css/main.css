@@ -46,17 +46,18 @@ body {
 
 .author{
 	color:#080808;
+	font-family: Arial;
 }
 
 .venue{
 	color:#080808;
 	font-style: italic;
+	font-family: Arial;
 }
 
 .article{
 	color:#000000;
-	font-family: Arial;
-	font-size: 17;
+	font-size: 18;
 }
 
 .image{
