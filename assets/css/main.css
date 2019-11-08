@@ -1,7 +1,7 @@
 body {
 	line-height: 1.5;
 	margin: 2% 10% 2% 10%;
-	font-family: Georgia;
+	font-family: Tahoma;
 }
 
 .header {
@@ -31,6 +31,11 @@ body {
 	font-style: italic;
 }
 
+.me {
+	font-weight: bold;
+	text-decoration:underline
+}
+
 .email {
 	font-size: 14px;
 }
@@ -46,13 +51,13 @@ body {
 
 .author{
 	color:#080808;
-	font-family: Arial;
+	font-family: Tahoma;
 }
 
 .venue{
 	color:#080808;
 	font-style: italic;
-	font-family: Arial;
+	font-family: Tahoma;
 }
 
 .article{
