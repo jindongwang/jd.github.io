@@ -76,8 +76,9 @@ text-decoration:none;
 } 
 
 a:hover { 
+	border-bottom: 1px dotted #000;
 color:#337adf; 
-text-decoration:underline; 
+text-decoration:none; 
 } 
 
 a:visited { 
