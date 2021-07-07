@@ -22,4 +22,4 @@
 
 ### Google Docs在线查看
 
-[Google docs地址](https://docs.google.com/presentation/d/1e5Lhcny2SCYZnLcsrkJekFEm3oNk3u6QtC1IaBNjnBk)
+[Google docs地址](https://docs.google.com/presentation/d/1e5Lhcny2SCYZnLcsrkJekFEm3oNk3u6QtC1IaBNjnBk/edit?usp=sharing)
